@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Viliam Holly! 👋
 
-<!--
-**Volo354/Volo354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 I use these programming languages: Python, C#, (HTML & CSS) and TypeScipt
+- 🔭 I’m currently working on portfolio web-api
+- 🌱 I’m currently learning C# & Vue.js
+- 🌟 Fun fact: I have been coding since the age of 11
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Something about me: ✨
+
+✔️ I'm 13 years old.
+✔️ My favorite programming language is C#.
+✔️ I love playing card games.
+✔️ I loooooooove coding.
+✔️ Volleyball is my favorite sport.
+
+### How to reach me. 📧
+
+- viliamteoholly@gmail.com
