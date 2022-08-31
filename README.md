@@ -8,11 +8,11 @@
 
 ### Something about me: ✨
 
-✔️ I'm 13 years old.
-✔️ My favorite programming language is C#.
-✔️ I love playing card games.
-✔️ I loooooooove coding.
-✔️ Volleyball is my favorite sport.
+- ✔️ I'm 13 years old.
+- ✔️ My favorite programming language is C#.
+- ✔️ I love playing card games.
+- ✔️ I loooooooove coding.
+- ✔️ Volleyball is my favorite sport.
 
 ### How to reach me. 📧
 
