@@ -14,6 +14,3 @@
 - ✔️ I loooooooove coding.
 - ✔️ Volleyball is my favorite sport.
 
-### How to reach me. 📧
-
-- viliamteoholly@gmail.com
